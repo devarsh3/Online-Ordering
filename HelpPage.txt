@@ -1,0 +1,7 @@
+Welcome to MD Burrito Help Page
+1. Click on the Menu
+2. Write your order in the "Order Here" section as it is on the menu and click Add
+3. Your Order will appear on the right side of the Window with your Tax and Total Amount 
+4. You can sort the menu by price by clicking on "Ascending" or "Descending"
+5. After you're done ordering click on "Print Recipt" to confirm your order
+6. Your order will Appear in a text file in the folder

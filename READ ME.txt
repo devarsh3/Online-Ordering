@@ -1,0 +1,21 @@
+What you need to run the Application
+Burrito.txt
+Burritos.png
+HelpPage.java
+HelpPage.txt
+HomePage.java
+MD.png
+Menu.java
+Ques.txt
+tacos.txt
+whiteback.jpg
+
+Who's responsible for what?
+Mahrshi = helpage, print receipt, writing to file, sorting
+Devarsh = menu, homepage, reading file, sorting  
+
+The program will start with the "HomePage.java"
+
+Bugs: 
+1. In the file "recipt.txt", if the item name is too long, it will tab the price over
+

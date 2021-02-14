@@ -1,0 +1,10 @@
+Cheese
+10.29
+Chicken
+12.99
+Pork
+12.99
+Beef
+12.99
+Yam
+12.29

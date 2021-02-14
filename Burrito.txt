@@ -1,0 +1,20 @@
+Baked Chicken
+12.99
+Pulled Pork
+12.99
+Ground Beef
+12.99
+Bean
+10.29
+Potato
+11.29
+Veggie
+10.99
+Steak
+13.29
+Shrimp
+13.29
+Fish
+13.29
+Tofu
+12.29

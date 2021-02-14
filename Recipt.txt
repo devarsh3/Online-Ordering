@@ -1,0 +1,13 @@
+	MD Burritos
+	10 Gillingham Dr.
+	Brampton, ON
+===========================
+Item		Price
+
+Shrimp Burrito	13.29
+Cheese Quesadilla	10.29
+
+Subtotal: 	$23.58
+Tax: 		$3.07
+===========================
+Total: 		$26.65
